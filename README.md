@@ -1,1 +1,4 @@
 # PROJECT-8
+This project is a responsive JavaScript Documentation Website built using HTML and CSS. It is designed to present technical content in a clear, structured, and easy-to-read format, similar to official programming documentation platforms. The website includes a fixed sidebar navigation menu and multiple content sections such as Introduction, JavaScript Basics, Variables, and Examples, allowing users to easily navigate through different topics.
+
+The main goal of this project is to practice creating documentation-style layouts, improving page structure, and implementing responsive design techniques. While working on this project, I strengthened my skills in semantic HTML, CSS layout management, and user interface organization. This project serves as a learning-based implementation for understanding how professional documentation websites are designed and structured.
